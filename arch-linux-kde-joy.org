@@ -1,0 +1,9 @@
+* KDE Bug Timeline Table
+  | Start | Ongoing | End | Package |
+  |-------+---------+-----+---------|
+  |       |         |     |         |
+  
+* Bugs
+** Konsole Font Bug
+** Broken GTK Breeze Theme
+   
